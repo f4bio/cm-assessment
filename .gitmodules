@@ -1,6 +1,3 @@
-[submodule "apps/frontend"]
-	path = apps/frontend
-	url = git@github.com:f4bio/cm-assessment-frontend.git
 [submodule "apps/api"]
 	path = apps/api
 	url = git@github.com:f4bio/cm-assessment-api.git
